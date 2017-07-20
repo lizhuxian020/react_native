@@ -1,0 +1,19 @@
+{
+  "name": "react_native_git",
+  "version": "0.0.1",
+  "description": "my rn repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lizhuxian020/react_native.git"
+  },
+  "author": "lzx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lizhuxian020/react_native/issues"
+  },
+  "homepage": "https://github.com/lizhuxian020/react_native#readme"
+}
